@@ -1,2 +1,4 @@
 # In-Class-Projects
-In-class project for computer-related courses
+// v1.0 2025.1.6
+基于双向链表，拥有简单可操作界面的音乐播放器，使用VS2022开发
+歌曲要放在music文件夹中，目前仅支持不带曲名空格的mp3歌曲文件
