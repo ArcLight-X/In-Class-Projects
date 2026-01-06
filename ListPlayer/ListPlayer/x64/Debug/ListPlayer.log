@@ -1,0 +1,7 @@
+﻿  Demo.cpp
+  Music.cpp
+  Player.cpp
+D:\Programme Projects\VS Project\MusicPlayer List\ListPlayer\Player.cpp(215,15): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\Programme Projects\VS Project\MusicPlayer List\ListPlayer\Player.cpp(258,17): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  ListPlayer.vcxproj -> D:\Programme Projects\VS Project\MusicPlayer List\ListPlayer\x64\Debug\ListPlayer.exe
